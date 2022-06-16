@@ -1,0 +1,48 @@
+
+body{ 
+    background-color:#97BC62FF; 
+    width: 1000px;
+    margin: auto;
+}
+
+header{
+    background: #2C5F2D;
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    top:0px;
+    left:0px;
+    right:0px;
+    margin:auto;
+    text-align: center;
+    vertical-align: middle;
+}
+footer{
+    background: #2C5F2D;
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+h2{
+    font-family: inherit;
+    font-size:25px;
+    font-weight: 200;
+    color: cadetblue;
+    text-align: center;
+      
+}
+li{ 
+    font-family: inherit;
+    font-size:25px;
+
+}
+
+#artistName{ font-family: inherit;
+    font-size: 40px;
+    text-align: center;
+    
+}
